@@ -1,2 +1,2 @@
-# ProGit
-Pro Git Book V2
+# GitOne
+GitOne V1
